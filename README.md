@@ -1,2 +1,2 @@
 # Books
-Books related to Data Science 
+Cheat Sheets by Stanford
